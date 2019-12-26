@@ -1,1 +1,0 @@
-<annotations><filename>3-color0-rotate_180.jpg</filename><folder>images</folder><size><width>800</width><height>600</height><depth>3</depth></size><object><name>bowl_small</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>241</xmin><ymin>245</ymin><xmax>572</xmax><ymax>517</ymax></bndbox></object></annotations>
