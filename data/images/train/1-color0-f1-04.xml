@@ -1,0 +1,26 @@
+<annotation>
+    <folder>output</folder>
+    <filename>1-color0-f1-04.jpg</filename>
+    <path>D:\DishRcognitionResource\bounding-box-augmentation-master\bounding-box-augmentation-master\output\1-color0-f1-04.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>800</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bowl_big</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>148</xmin>
+            <ymin>167</ymin>
+            <xmax>565</xmax>
+            <ymax>470</ymax>
+        </bndbox>
+    </object>
+</annotation>

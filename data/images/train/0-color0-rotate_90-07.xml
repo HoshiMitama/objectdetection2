@@ -1,0 +1,26 @@
+<annotation>
+    <folder>output</folder>
+    <filename>0-color0-rotate_90-07.jpg</filename>
+    <path>D:\DishRcognitionResource\bounding-box-augmentation-master\bounding-box-augmentation-master\output\0-color0-rotate_90-07.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>600</width>
+        <height>800</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>bowl_big</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>125</xmin>
+            <ymin>264</ymin>
+            <xmax>493</xmax>
+            <ymax>611</ymax>
+        </bndbox>
+    </object>
+</annotation>
